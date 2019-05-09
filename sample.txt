@@ -1,1 +1,2 @@
 This is a Gitversion control system
+hello this is newline added
